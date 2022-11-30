@@ -175,7 +175,7 @@ Example:
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/gsmalik030)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@twitterhandle](https://twitter.com/gsmalik030)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghulam-subbhani-4b1281252/)
 
 👤 **Author2**
